@@ -28,7 +28,7 @@ kramdown:
 owner: Pranay Kumar
   name: Your Name
   avatar: web_pic.jpg #webpage photo
-  bio: "Computer Engineer, Texas A&M University "
+  bio: "Describe your self."
   email: epranaykumar@tamu.edu
   disqus-shortname:
   twitter: #username
