@@ -28,13 +28,13 @@ kramdown:
 owner: 
   name: Pranay Kumar
   avatar: web_pic.jpg #webpage photo
-  bio: "Electrical & Computer Engineering, Texas A&M University, College Station "
+  bio: "Computer Engineering, Texas A&M University, College Station "
   email: epranaykumar@tamu.edu
   disqus-shortname:
   twitter: #username
-  facebook: Pranay Kumar Eedara
+  facebook: #Pranay Kumar Eedara
   google:
-    plus: Pranay Kumar Eedara
+    plus: #Pranay Kumar Eedara
     analytics:
     verify:
     ad-client:
